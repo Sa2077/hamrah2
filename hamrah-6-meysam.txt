@@ -2,5 +2,3 @@ warp://[2606:4700:d0::80da:5aa1:6789:5677]:4177?ifp=10-20&ifps=20-60&ifp=5-10#Ir
 warp://[2606:4700:d0::80da:5aa1:6789:5677]:946?ifp=10-20&ifps=20-60&ifp=5-10#Iran&&detour=warp://162.159.192.252:1018?ifp=10-20&ifps=20-60&ifp=5-10#Germany
 warp://[2606:4700:d0::81c3:74f8:c430:de39]:4177?ifp=10-20&ifps=20-60&ifp=5-10#Iran&&detour=warp://162.159.192.182:908?ifp=10-20&ifps=20-60&ifp=5-10#Germany
 warp://[2606:4700:d0::4e0c:c083:9037:38e0]:4177?ifp=10-20&ifps=20-60&ifp=5-10#Iran&&detour=warp://188.114.98.169:1018?ifp=10-20&ifps=20-60&ifp=5-10#Germany
-warp://[2606:4700:d0::124e:181d:ea7f:edf6]:946?ifp=10-20&ifps=20-60&ifp=5-10#Iran&&detour=warp://188.114.98.169:908?ifp=10-20&ifps=20-60&ifp=5-10#Germany
-warp://[2606:4700:d0::81c3:74f8:c430:de39]:946?ifp=10-20&ifps=20-60&ifp=5-10#Iran&&detour=warp://162.159.192.198:1018?ifp=10-20&ifps=20-60&ifp=5-10#Germany
